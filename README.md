@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @devc0der20
 - 👀 I’m interested in web dev in general.
-- 🌱 I’m currently learning and implementing advanced react for an app I'm workig on. Im am since 08.2020 
- certified by LeWagon Berlin as Fullstack web developer using Ruby on Rails. 
+- 🌱 I’m currently learning and implementing advanced react for an app I'm workig on. Since 08.2020 
+ I am a certified as Fullstack web developer using Ruby on Rails, by LeWagon Berlin . 
 - 📫 you can reach me on yusayub@hotmail.com
 
 <!---
